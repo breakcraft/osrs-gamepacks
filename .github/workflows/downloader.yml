@@ -1,5 +1,5 @@
 # https://github.com/tsedlar
-name: CI
+name: CI 
 
 on:
   schedule:
